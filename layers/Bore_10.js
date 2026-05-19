@@ -1,0 +1,1 @@
+var json_Bore_10 = {"type":"FeatureCollection","name":"Bore_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Bore"},"geometry":{"type":"Point","coordinates":[176.853521663862665,-39.569625896376422]}}]}

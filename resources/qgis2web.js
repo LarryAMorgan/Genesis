@@ -497,11 +497,11 @@ var bottomRightContainerDiv = document.getElementById('bottom-right-container')
 var Title = new ol.control.Control({
     element: (() => {
         var titleElement = document.createElement('div');
-        titleElement.className = 'top-right-title ol-control';
+        titleElement.className = 'top-left-title ol-control';
         titleElement.innerHTML = '<h2 class="project-title">Genesis Nurseries Pakowhai Road Lease</h2>';
         return titleElement;
     })(),
-    target: 'top-right-container'
+    target: 'top-left-container'
 });
 map.addControl(Title)
     
